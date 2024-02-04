@@ -23,7 +23,30 @@ $fontFamily: "Michroma";
 $fontSize: toRem(14); // также 14(px) - размер шрифта по умолчанию с макета
 
 // Основні кольори
-$mainColor: #000; // Цвет шрифта по умолчанию
+$mainColor: #121212; // Цвет шрифта по умолчанию
+$green: #508552;
+$grey: #727272;
+$white: #FFFF;
+
+// // Переменные для цветов
+// $primary-color: #3498db;
+// $secondary-color: #2ecc71;
+// $accent-color: #e67e22;
+
+// Переменные для border-radius
+$border-radius-small: 4px;
+$border-radius-medium: 8px;
+$border-radius-large: 16px;
+
+// Переменные для padding
+$padding-small: 8px;
+$padding-medium: 16px;
+$padding-large: 14px 50px;
+
+// // Переменные для margin
+// $margin-small: 8px;
+// $margin-medium: 16px;
+// $margin-large: 24px;
 
 // Палитра цветов
 // @import "base/colors-palette";
